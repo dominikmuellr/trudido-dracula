@@ -1,6 +1,6 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Trudido](https://github.com/dominikmuellr/trudido)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Trudido](https://github.com/dominikmuellr/trudido).
 
 ![Screenshot](./screenshot.png)
 
